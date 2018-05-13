@@ -1,0 +1,1 @@
+returnOnes xs = [1 | x <- xs]
